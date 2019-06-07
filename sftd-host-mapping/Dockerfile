@@ -1,4 +1,4 @@
-FROM dodopizza/centos:1.12
+FROM dodopizza/centos:1.13
 LABEL maintainer="Vitaly Uvarov <vitalyu@gmail.com>"
 
 RUN   yum install -y sudo && yum clean all
