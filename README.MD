@@ -3,6 +3,7 @@
 [DockerHub](https://hub.docker.com/r/dodopizza/centos)
 
 # Update info
+
 ## 2019-05-21
 Ansible 2.8.0 (from 2.7.10)
 
